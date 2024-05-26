@@ -1,0 +1,8 @@
+Projeto Baseado no Curso de Html 5 e Css 3 Moderno do canal Curso em Videos pelo professor Gustavo Guanabara;
+
+Links:
+
+https://www.youtube.com/c/CursoemV%C3%ADdeo
+
+Git : https://github.com/gustavoguanabara
+
